@@ -45,3 +45,11 @@ El análisis de rentabilidad reveló dos patrones de pérdida financiera complet
 
 *   **Para los productos de alto valor:** Establecer umbrales estrictos de descuento para proteger el margen bruto en categorías clave como muebles.
 *   **Para el caso *Supplies*:** Se requiere una auditoría profunda sobre su estructura de costos (proveedores, envíos, manufactura) para determinar por qué un producto con casi nulo descuento opera a pérdida. Con esto se evaluará si es viable mantener la categoría o si requiere una renegociación con proveedores.
+
+## 6. Dashboard de Power BI
+
+Los hallazgos se consolidaron en un dashboard interactivo que incluye KPIs generales (Ganancia Total, Venta Total, Margen de Ganancia), un análisis de rentabilidad por subcategoría, un mapa de desempeño por estado y un gráfico de dispersión que cruza descuento promedio contra ganancia por subcategoría.
+
+El archivo interactivo (`.pbix`) está disponible en la raíz de este repositorio: [`analisis_ventas.pbix`](analisis_ventas.pbix)
+
+![Dashboard Power BI](images/dashboard.png)
